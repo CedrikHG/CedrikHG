@@ -1,13 +1,6 @@
 ## Hi there 👋
 
-<!--
-Based on your history, I've updated the project list to focus on your most technically complex work—specifically highlighting your **mobile deployment** work, **desktop development**, and **OCR/Computer Vision** integrations, which are high-value for a Software Engineer profile.
-
----
-
-### README.md
-
-I’m a Software Engineer based in **Mexico**. I specialize in building scalable applications with **React** and **TypeScript**, with a strong focus on backend automation and AI integration.
+I’m a Software Engineer student. I specialize in building scalable applications with **React** and **TypeScript**, with a strong focus on backend automation and AI integration.
 
 **These days I’m focused on:**
 
@@ -25,7 +18,6 @@ I’m a Software Engineer based in **Mexico**. I specialize in building scalable
 **Fun Facts:**
 
 * I always prefer **Dark Mode**
-* **Xbox** player
+* **PC** player
 
 **Hobbies:** Gaming & Tech Automation
--->
