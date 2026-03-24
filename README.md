@@ -1,10 +1,10 @@
 ## Hi there 👋
 
-I’m a Software Engineer student. I specialize in building scalable applications with **React** and **TypeScript**, with a strong focus on backend automation and AI integration.
+I’m a Software Engineer student. I specialize in building scalable applications with **React** and **Flutter**, with a strong focus on backend automation and AI integration.
 
 **These days I’m focused on:**
 
-* **React, TypeScript & SQL**
+* **React, Flutter, Kotlin & SQL**
 * AI-driven automation & Chatbot architecture
 * API Integration & System Deployment
 
